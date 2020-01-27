@@ -1,4 +1,4 @@
-const delay = require('../utils/delay')
+const delay = require('./delay')
 
 const saveData = async (data) => {
   await delay(1000)
