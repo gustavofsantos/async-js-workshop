@@ -47,5 +47,4 @@ app.get('/count-n2w', (req, res) => {
   requestId += 1
 })
 
-
 app.listen(3000)

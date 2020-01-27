@@ -4,8 +4,7 @@
 - Uma visão geral
 - Arquitetura do V8: Ignition, TurboFan, Hot Code Gen
 - APIs do Node não são parte do ECMAScript
-- Event Loop: libuv, C++, multithread?, SMT
-- Mais um loop?
+- Event Loop: libuv, C++, multithread?, SMT, (tokio event loop [deno])
 
 ##### Processamento assíncrono em Node com callbacks: módulo crypto
 - callback hell
